@@ -62,6 +62,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     //retrofit2
     implementation("com.squareup.retrofit2:retrofit:2.11.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.11.0")
     implementation("com.android.tools.compose:compose-preview-renderer:0.0.1-alpha01")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
